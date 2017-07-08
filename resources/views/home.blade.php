@@ -8,7 +8,7 @@
         <title>MKoncepts</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Righteous|Roboto" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Hammersmith+One|Lato" rel="stylesheet">
 
         <!-- Styles -->
         <link rel="stylesheet" href="/css/main.css">
@@ -20,12 +20,15 @@
                     <div class="title m-b-md">
                         Kha Thantron
                     </div>
+                    <div class="subtitle">
+                        Web Developer
+                    </div>
 
                     <div class="links">
                         <a href="#">Projects</a>
                         <a href="#">Prototypes</a>
                         <a href="#">Inspiration</a>
-                        <a href="#">Blog</a>
+                        <a href="#">Resume</a>
                     </div>
                 </div>
             </div>
